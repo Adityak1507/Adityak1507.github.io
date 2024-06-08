@@ -15,10 +15,9 @@ Visit my portfolio website: [Your Portfolio Website](https://adityak1507.github.
 - **Contact:** A form to get in touch with me directly through the website.
 
 ## Technologies Used
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express
+- **Frontend:** HTML, CSS, JavaScript
 - **Database:** MongoDB
-- **Hosting:** Netlify (or the hosting service you are using)
+- **Hosting:** GitHub
 - **Version Control:** Git, GitHub
 
 ## Installation and Setup
@@ -44,14 +43,5 @@ If you would like to run the website locally, follow these steps:
 
 ## Contribution
 I welcome contributions to my portfolio website. If you have any suggestions or find any bugs, feel free to create an issue or submit a pull request. 
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any inquiries, please contact me at:
-- **Email:** your-email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter:** [@your-twitter-handle](https://twitter.com/your-twitter-handle)
 
 Thank you for visiting my portfolio website!
